@@ -37,7 +37,7 @@ namespace MCD_OOP_Ornek.Classlar
 
         public void MusterininSepetiniYazdir()
         {
-
+            
         }
 
 

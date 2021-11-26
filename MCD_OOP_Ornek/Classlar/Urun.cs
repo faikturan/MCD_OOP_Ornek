@@ -8,5 +8,8 @@ namespace MCD_OOP_Ornek.Classlar
 {
     class Urun
     {
+        public int UrunId { get; set; }
+        public string UrunAdi { get; set; }
+        public UrunKategorileri UrunKategorisi { get; set; }
     }
 }
