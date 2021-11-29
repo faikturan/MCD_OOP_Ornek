@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace MCD_OOP_Ornek.Classlar
+namespace MCD_OOP_Ornek
 {
-    class Urun
+    public class Urun
     {
         public int UrunId { get; set; }
         public string UrunAdi { get; set; }
